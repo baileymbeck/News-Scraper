@@ -1,6 +1,6 @@
 # News-Scraper
-This project is exercise in data scrapping, is utilizes
-​
+This project is exercise in data scrapping, is utilizes axios, cheerio, express, mongoose, and morgan to pull data from the New York Times site.
+
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
@@ -18,10 +18,12 @@ Add more general information about project. What the purpose of the project is? 
 ![Example screenshot](./img/screenshot.png)
 ​
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
-​
+*    "axios": "^0.19.0",
+*    "cheerio": "^1.0.0-rc.3"
+*    "express": "^4.17.1"
+*    "mongoose": "^5.7.7"
+*    "morgan": "^1.9.1"
+
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
 ​
