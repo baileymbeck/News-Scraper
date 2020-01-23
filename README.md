@@ -12,7 +12,7 @@ This project is exercise in data scrapping, is utilizes axios, cheerio, express,
 * [Contact](#contact)
 ​
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+
 ​
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
